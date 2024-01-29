@@ -1,0 +1,38 @@
+/* 1.tag selector css */
+body{
+    background-color: azure;
+}
+
+    /*กำหนดไข่ปลา*/
+    hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: cadetblue;
+    border-width: 5px;
+    width: 5%;
+
+    }
+    /* tag selector css */
+h1{
+    color: blueviolet;
+}
+p{
+    color: chocolate;
+}
+img{
+    background-color: blue;
+}
+
+/* 2.class selector css*/
+.bcl{
+    background-color: yellow;
+}
+.circular{
+    border-radius: 100%;
+}
+.Mushroom{
+    background-color: yellow;
+}
+#heading{
+    color: palevioletred;
+}
